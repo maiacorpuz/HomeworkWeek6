@@ -1,2 +1,2 @@
 # HomeworkWeek6
-http://rpubs.com/mlcorpuz/540299
+file:///Users/maiacorpuz/Desktop/TRGN-510/Week6HMWK.1.html
