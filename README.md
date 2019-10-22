@@ -1,2 +1,2 @@
 # HomeworkWeek6
-file:///Users/maiacorpuz/Desktop/TRGN-510/Week6HMWK.1.html
+file:///Users/maiacorpuz/Desktop/TRGN-510/docs/hmwkweek6.html
