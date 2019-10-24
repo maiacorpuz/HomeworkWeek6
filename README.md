@@ -1,2 +1,1 @@
-# HomeworkWeek6
-file:///Users/maiacorpuz/Desktop/TRGN-510/docs/hmwkweek6.html
+sdfkjhs
