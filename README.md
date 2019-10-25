@@ -19,7 +19,7 @@ __Part 2: Navigating the gene dataset__
 
 Now that we've uploaded our data into a dataframe, we can visualize our data by clicking on it in the Global Environment panel on the right hand side. 
 
-
+![MacDown Screenshot](http://d.pr/i/10UGP+)
 
 We can then get a summary of the data now that we've loaded in a data frame which is structured for R to navigate.
 
