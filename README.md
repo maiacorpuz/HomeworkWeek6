@@ -19,12 +19,10 @@ __Part 2: Navigating the gene dataset__
 
 Now that we've uploaded our data into a dataframe, we can visualize our data by clicking on it in the Global Environment panel on the right hand side. 
 
-![Text](file://Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/mygenesdataframe.png)
-
 <!DOCTYPE HTML>
 <html>
 <body>
-<img src="http://Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/mygenesdataframe.png" align="middle">
+<img src="~/Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/mygenesdataframe.png" align="middle">
 </body>
 </html>
 
