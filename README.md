@@ -19,11 +19,11 @@ __Part 2: Navigating the gene dataset__
 
 Now that we've uploaded our data into a dataframe, we can visualize our data by clicking on it in the Global Environment panel on the right hand side. 
 
-`[image-id]:Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/mygenesdataframe.png "Screenshot"`
+`![Text](/Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/mygenesdataframe.png "Screenshot")`
 
 We can then get a summary of the data now that we've loaded in a data frame which is structured for R to navigate.
 
-![Text](file://Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/summaryofmygenes.png "Screenshot2")
+`![Text](/Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/summaryofmygenes.png "Screenshot2")`
 
 __Part 3: Graphing the gene dataset__
 
@@ -33,10 +33,10 @@ To practice creating graphical displays of this dataset in a new context, we can
 
 Another graphical display of this bar graph is to create polar coordinates. You'll be able to visualize the higher counts of each transcript type contained within all autosomes defined.
 
-![Text](/Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/polarcoordinate.png "Screenshot4")
+`![Text](/Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/polarcoordinate.png "Screenshot4")`
 
 Finally, to scale back to the bar graph data displayed, we can make the graph not only interactive but also more informative by introducing a hoverable option. 
 
-![Text](/Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/interactive.png "Screenshot5")
+`![Text](/Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/interactive.png "Screenshot5")`
 
 By the end of this assignment, we should have some background in utilizing R to organize, interpret, and find significance in a dataset.
