@@ -24,7 +24,7 @@ Now that we've uploaded our data into a dataframe, we can visualize our data by 
 <!DOCTYPE HTML>
 <html>
 <body>
-<img src="C://Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/mygenesdataframe.png" align="middle">
+<img src="http://Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/mygenesdataframe.png" align="middle">
 </body>
 </html>
 
