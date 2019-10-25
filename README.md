@@ -23,7 +23,7 @@ Now that we've uploaded our data into a dataframe, we can visualize our data by 
 
 We can then get a summary of the data now that we've loaded in a data frame which is structured for R to navigate.
 
-![Summary](/Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/summaryofmygenes.png)
+![Summary](file://Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/summaryofmygenes.png)
 
 __Part 3: Graphing the gene dataset__
 
