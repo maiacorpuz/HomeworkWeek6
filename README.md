@@ -29,7 +29,7 @@ __Part 3: Graphing the gene dataset__
 
 To practice creating graphical displays of this dataset in a new context, we can use the libraries 'plotly' and 'ggplot2'. First we should define a subset of the data based on interest in defining autosomes. We'll plot this as a bar graph to see features of these autosomes based on transcript_type: CDS, exon, gene, etc for the y-axis and chromosome number as the x-axis.
 
-![Text](/Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/autosomes.png "Screenshot3")
+`![Text](/Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/autosomes.png "Screenshot3")`
 
 Another graphical display of this bar graph is to create polar coordinates. You'll be able to visualize the higher counts of each transcript type contained within all autosomes defined.
 
