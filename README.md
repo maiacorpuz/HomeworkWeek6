@@ -21,6 +21,13 @@ Now that we've uploaded our data into a dataframe, we can visualize our data by 
 
 ![Text](file://Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/mygenesdataframe.png)
 
+<!DOCTYPE HTML>
+<html>
+<body>
+<img src="C:/Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/mygenesdataframe.png" align="middle">
+</body>
+</html>
+
 We can then get a summary of the data now that we've loaded in a data frame which is structured for R to navigate.
 
 ![Text](/Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/summaryofmygenes.png "Screenshot2")
