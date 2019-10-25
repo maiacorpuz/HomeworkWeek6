@@ -19,16 +19,11 @@ __Part 2: Navigating the gene dataset__
 
 Now that we've uploaded our data into a dataframe, we can visualize our data by clicking on it in the Global Environment panel on the right hand side. 
 
-<!DOCTYPE HTML>
-<html>
-<body>
-<img src="~/Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/mygenesdataframe.png" align="middle">
-</body>
-</html>
+
 
 We can then get a summary of the data now that we've loaded in a data frame which is structured for R to navigate.
 
-![Text](/Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/summaryofmygenes.png "Screenshot2")
+![Text](/Users/maiacorpuz/Desktop/TRGN-510/images_Week_6_Rmd/summaryofmygenes.png)
 
 __Part 3: Graphing the gene dataset__
 
